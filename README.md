@@ -10,9 +10,7 @@ Flip was create as a fun project to play with CSS and adding HTML items dynamicl
 
 Simply clone the repository from GitHub to begin.
 
-<div>
-  <img alt="Screenshot" src="./flip_card/images/kitten_1.jpg" width="700px"/>
-</div>
+! [kitten] (https://github.com/lauragillespie/Web_flip_game/blob/main/filp_card/images/kitten_1.jpg)
 
 
 ### Stretch/Future Goals
